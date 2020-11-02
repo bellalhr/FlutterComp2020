@@ -8,9 +8,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b6b7fff-9c3b-45b0-a435-f235e9c2c07d" name="Default Changelist" comment="Add provider for state management add others data">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0b6b7fff-9c3b-45b0-a435-f235e9c2c07d" name="Default Changelist" comment="Add provider for state management add others data" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
