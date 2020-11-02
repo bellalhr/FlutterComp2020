@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../Soft/flutter_1_22_2/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-1.0.0" />
+      <root url="file://$PROJECT_DIR$/../../../../../Soft/flutter_1_22_2/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_for_web-0.3.1+2" />
+      <root url="file://$PROJECT_DIR$/../../../../../Soft/flutter_1_22_2/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.1.0+5" />
+      <root url="file://$PROJECT_DIR$/../../../../../Soft/flutter_1_22_2/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.22" />
+      <root url="file://$PROJECT_DIR$/../../../../../Soft/flutter_1_22_2/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-0.0.4+1" />
+      <root url="file://$PROJECT_DIR$/../../../../../Soft/flutter_1_22_2/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+4" />
+      <root url="file://$PROJECT_DIR$/../../../../../Soft/flutter_1_22_2/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+2" />
+      <root url="file://$PROJECT_DIR$/../../../../../Soft/flutter_1_22_2/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_full_pdf_viewer-1.0.6" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
