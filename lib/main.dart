@@ -2,16 +2,18 @@ import 'package:flutter/material.dart';
 import 'package:my_apps/provider_strm/EligiblityScreen.dart';
 import 'package:my_apps/provider_strm/ProviderUi_2.dart';
 
+import 'Pagination/PaginationDemo.dart';
 import 'callapsibleToolbar/CallapsiableToolbarUi.dart';
 import 'custom_pdf/PdfGenerator.dart';
 import 'internectConnectionChecker/HomePageInternetConn.dart';
+import 'navigationPushOption/ScreenOne.dart';
 import 'navigation_handler/locator.dart';
 import 'navigation_handler/services/navigation_service.dart';
 import 'package:my_apps/navigation_handler/router.dart' as  router;
 import 'package:my_apps/navigation_handler/constants/route_paths.dart' as  routes;
 
 void main() {
-  setupLocator(); //Only for navigation service register in GetIt
+  //setupLocator(); //Only for navigation service register in GetIt
   runApp(MyApp());
 }
 
@@ -37,10 +39,14 @@ class MyApp extends StatelessWidget {
         // closer together (more dense) than on mobile platforms.
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      /*home: ProviderUi_2()*/
-      navigatorKey: locator<NavigationService>().navigatorKey,
+      home: ScreenOne()
+
+        //Todo navigation handler ====================
+     /* navigatorKey: locator<NavigationService>().navigatorKey,
       onGenerateRoute: router.generateRoute,
-      initialRoute: routes.LoginRoute,
+      initialRoute: routes.LoginRoute,*/
+
+    //Todo End body of navigation handler ====================
     );
   }
 }
